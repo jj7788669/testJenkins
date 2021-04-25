@@ -1,0 +1,7 @@
+C:\Users\jun.yan\source\repos\aspnetApiDemo\aspnetApiDemo\obj\Release\netcoreapp3.1\PubTmp\Out\aspnetApiDemo.exe
+C:\Users\jun.yan\source\repos\aspnetApiDemo\aspnetApiDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\jun.yan\source\repos\aspnetApiDemo\aspnetApiDemo\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\jun.yan\source\repos\aspnetApiDemo\aspnetApiDemo\obj\Release\netcoreapp3.1\PubTmp\Out\aspnetApiDemo.dll
+C:\Users\jun.yan\source\repos\aspnetApiDemo\aspnetApiDemo\obj\Release\netcoreapp3.1\PubTmp\Out\aspnetApiDemo.deps.json
+C:\Users\jun.yan\source\repos\aspnetApiDemo\aspnetApiDemo\obj\Release\netcoreapp3.1\PubTmp\Out\aspnetApiDemo.runtimeconfig.json
+C:\Users\jun.yan\source\repos\aspnetApiDemo\aspnetApiDemo\obj\Release\netcoreapp3.1\PubTmp\Out\aspnetApiDemo.pdb

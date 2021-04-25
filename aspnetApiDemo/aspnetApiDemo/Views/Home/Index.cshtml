@@ -1,0 +1,23 @@
+﻿@model IEnumerable<Student>
+@{
+  
+    ViewBag.Title = "学生列表";
+}
+
+@foreach (var student in @Model)
+    {
+        <div>
+            姓名 : @student.Name
+        </div>
+        <div>
+            年龄 : @student.Age
+        </div>
+        <div>
+            年纪 : @student.Grade
+        </div>
+        <div>
+            班级 : @student.Class
+        </div>
+    }
+
+
